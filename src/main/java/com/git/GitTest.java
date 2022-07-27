@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("git1");
         System.out.println("git2");
         System.out.println("distance modify git3");
+        System.out.println("local modify git4");
     }
 }
